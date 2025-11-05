@@ -4,6 +4,6 @@
 
 <h2> I am a </h2>
 
-- [Freshman @ Purdue](https://www.linkedin.com/in/chenhsonny)
+- [Junior @ Purdue](https://www.linkedin.com/in/chenhsonny)
 - [USACO Gold Competitor](http://usaco.org)
 - [Director of Tech at the Spring Institute](https://thespringgroup.org)
